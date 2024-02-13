@@ -36,10 +36,6 @@ header {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add subtle box shadow */
     margin-bottom: 2rem;
 }
-.header {
-    padding: 10px 16px;
-  }
-  
 
 header h1 {
     margin: 0;
